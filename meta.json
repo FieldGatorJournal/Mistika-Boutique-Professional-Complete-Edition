@@ -1,0 +1,23 @@
+{
+  "repo": "mistika-boutique-professional-complete-edition",
+  "product": "Mistika Boutique Professional Complete Edition",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "video",
+  "topics": [
+    "mistika-boutique",
+    "hdr-grading",
+    "aces-pipeline",
+    "conform-tools",
+    "finishing-suite",
+    "mistika-setup-failed-fix",
+    "how-to-install-mistika",
+    "mistika-windows",
+    "mistika-desktop-2026",
+    "mistika-desktop-package"
+  ],
+  "site": "toolix.me"
+}
